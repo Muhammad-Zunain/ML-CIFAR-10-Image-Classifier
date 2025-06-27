@@ -180,7 +180,7 @@ A detailed analysis of all steps, results, and comparisons is available in ML-Re
 
 ## 🤝 Contributors
 - [**Muhammad Zunain**](https://github.com/Muhammad-Zunain)  
-- [**Muhammad Owais**][github.com/MuhammadOwais03](https://github.com/MuhammadOwais03) 
+- [**Muhammad Owais**](https://github.com/MuhammadOwais03) 
 - **Zuhaib Noor**
 
 ---
